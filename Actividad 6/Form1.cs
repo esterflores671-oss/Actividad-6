@@ -27,5 +27,10 @@ namespace Actividad_6
             label1.Text = "Hola "+ label1.Text;
             textBox1.Text = "";
         }
+
+        private void label1_MouseHover(object sender, EventArgs e)
+        {
+
+        }
     }
 }
