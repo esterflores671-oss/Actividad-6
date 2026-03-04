@@ -7,4 +7,4 @@ En esta actividad se implementa un programa en c# que simula el funcionamiento d
 
 Esta es una imagen de lo que muestra mi proyecto 
 
-¡[Imagen del proyecto](./assets/captura.png)
+¡[Imagen del proyecto](https://github.com/esterflores671-oss/Actividad-6/blob/master/Actividad%206/assets/Captura.PNG)
